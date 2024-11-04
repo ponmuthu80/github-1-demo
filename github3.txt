@@ -1,1 +1,1 @@
-Commit option is used to revert back the changes. COMMIT AND PUSH is used to perform
+Commit option is used to revert back the changes.
