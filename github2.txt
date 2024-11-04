@@ -1,1 +1,1 @@
-Push is used to push the code to github.
+Push is used to push the code to github.Once the code is pushed you received the message.
